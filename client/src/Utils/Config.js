@@ -7,8 +7,8 @@ const config = {
         // Add more social links if needed
     },
     // Add other configuration settings here
-    "email": "dovalajaidan@gmail.com",
-    "resume_url": "https://jaidandovalares.tiiny.site",
+    "email": "jdova25@gmail.com",
+    "resume_url": "https://jdovala.tiiny.site",
     "name": "Jaidan",
     "repo": "https://github.com/blkkap/TermFolio"
 
